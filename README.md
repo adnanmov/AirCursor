@@ -38,7 +38,7 @@ numpy
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/adnanmov/AirCursor.git
+git clone https://github.com/adnanpkg/AirCursor.git
 cd AirCursor
 ```
 
